@@ -38,14 +38,16 @@ Los cursos de pago los iré tomando conforme considere necesario.
 **Proyectos de hoy:**
 - Cuenta en Twitter
 - Perfíl en FreeCodeCamp (FCC)
+- Gestión de recursos
 **Progresos:**
-Se preparo el material necesario para el reto.
-Se organizo las diferentes cuentas a utilizar.
+Se preparó el material necesario para el reto.
+Se organizó las cuentas a utilizar en las diferentes plataformas.
 **Reflexiones:**
-Fue algo canzado, no sabia si ir por Desarrollo Web o Movil. A la final opte por Desarrollo Web.
+Fue algo canzado, no sabia si ir por Desarrollo Web o Movil. A la final opte por Desarrollo Web. Todo esto me ha tomado más de 5 horas.
 **Enlcace(s) a mi trabajo:**
-1.  [Repositorio github](https://github.com/zoiber/100-days-of-code-R1)
-2.  [Cuenta en Ti]
+1.  [Perfil FCC](https://www.freecodecamp.org/pabloluce2021)
+2.  [Cuenta en Twitter](https://twitter.com/PabloLuceroEC)
+
 <!--
 ## Pensamientos finales para la Ronda 1
 ### January XX, 20XX
