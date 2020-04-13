@@ -13,8 +13,7 @@ Este reto es parte  de Alexander Kallaway [100DaysOfCode-Repo](https://github.co
 | ------------- | ------------ |
 | 12 de Abril del 2019 | |
 
-## Goals
-
+## Objtivos
 - [ ] Programar diariamente
 - [ ] Crear un portafolio
 - [ ] Aprender conceptos sobre Git y colaborar en GitHub
@@ -40,12 +39,13 @@ Los cursos de pago los iré tomando conforme considere necesario.
 - Cuenta en Twitter
 - Perfíl en FreeCodeCamp (FCC)
 **Progresos:**
-Prepare el trabajo
+Se preparo el material necesario para el reto.
+Se organizo las diferentes cuentas a utilizar.
 **Reflexiones:**
-
+Fue algo canzado, no sabia si ir por Desarrollo Web o Movil. A la final opte por Desarrollo Web.
 **Enlcace(s) a mi trabajo:**
-1.  [Descubra la palabra más larga en una cadena de caracteres](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-
+1.  [Repositorio github](https://github.com/zoiber/100-days-of-code-R1)
+2.  [Cuenta en Ti]
 <!--
 ## Pensamientos finales para la Ronda 1
 ### January XX, 20XX
