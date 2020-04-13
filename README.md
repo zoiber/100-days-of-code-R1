@@ -25,32 +25,39 @@ Los cursos de pago los iré tomando conforme considere necesario.
 
   - [ ] Completar el programa de cetificación [Responsive Web Design Certification (300 hours)](https://www.freecodecamp.com/james-priest "FCC Profile") en FCC.
   - [ ] Tomar el curso [Desarrollo web en PHP con Laravel 5.6, VueJS y MariaDB Mysql](https://www.udemy.com/course/desarrollo-web-en-php-con-laravel-vuejs-y-mariadb/) en Udemy.
-  - [ ] Tomar el curso [Curso de Desarrollo Web Completo 2.0](https://www.udemy.com/course/curso-de-desarrollo-web-completo-2/" The Web Developer Bootcamp by Colt Steele") en Udemy.
+  - [ ] Tomar el curso [Curso de Desarrollo Web Completo 2.0](https://www.udemy.com/course/curso-de-desarrollo-web-completo-2/) en Udemy.
 
   - [ ] Tomar el curso [Curso de Introducción a Laravel - Platzi](https://platzi.com/cursos/intro-laravel/) en Platzi.
 
+### Recursos útiles para el Reto
+Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el desarrollo del reto.
+
+---
 
 # Registro de programación
 
-## 1.
-### Día 0: 12 de Abril, 2017 - Domingo
+## Prelanzamiento - GitHub, Twitter y Free Code Camp
+### Día 0: 12 de Abril, 2020 - Domingo
 
 **Proyectos de hoy:**
 - Cuenta en Twitter
 - Perfíl en FreeCodeCamp (FCC)
 - Gestión de recursos
+
 **Progresos:**
 Se preparó el material necesario para el reto.
 Se organizó las cuentas a utilizar en las diferentes plataformas.
+
 **Reflexiones:**
 Fue algo canzado, no sabia si ir por Desarrollo Web o Movil. A la final opte por Desarrollo Web. Todo esto me ha tomado más de 5 horas.
+
 **Enlcace(s) a mi trabajo:**
 1.  [Perfil FCC](https://www.freecodecamp.org/pabloluce2021)
 2.  [Cuenta en Twitter](https://twitter.com/PabloLuceroEC)
+
+---
 
 <!--
 ## Pensamientos finales para la Ronda 1
 ### January XX, 20XX
 -->
-
----

@@ -26,6 +26,10 @@
 1.  [Gentle Explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Git vs. GitHub: What is the difference between them?](https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
 
+
+## Artículos útiles (en español)
+1. [Metodología CSS: Block Element Modifier (BEM)](https://blog.interactius.com/metodolog%C3%ADa-css-block-element-modifier-bem-f26e69d1de3)
+
 ## Proyectos e ideas
 
 
