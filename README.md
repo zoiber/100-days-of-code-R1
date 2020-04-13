@@ -13,7 +13,7 @@ Este reto es parte  de Alexander Kallaway [100DaysOfCode-Repo](https://github.co
 | ------------- | ------------ |
 | 12 de Abril del 2019 | |
 
-## Objtivos
+## Objetivos
 - [ ] Programar diariamente
 - [ ] Crear un portafolio
 - [ ] Aprender conceptos sobre Git y colaborar en GitHub
