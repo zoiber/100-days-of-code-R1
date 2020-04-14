@@ -22,14 +22,15 @@
 
 # Recursos adicionales para el #100DaysOfCode
 
-## Artículos útiles (en inglés)
+## Artículos útiles
 
 1. [Gentle Explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Git vs. GitHub: What is the difference between them?](https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
-
-
-## Artículos útiles (en español)
-1. [Metodología CSS: Block Element Modifier (BEM)](https://blog.interactius.com/metodolog%C3%ADa-css-block-element-modifier-bem-f26e69d1de3)
+3. [Introduction to HTTP](https://launchschool.com/books/http)
+4. Versión en español del libro [Pro Git](https://git-scm.com/book/es/v2)
+5. [Metodología CSS: Block Element Modifier (BEM)](https://blog.interactius.com/metodolog%C3%ADa-css-block-element-modifier-bem-f26e69d1de3)
+6. Entiende como funciona Git Y GitHub [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
+7. [Video](https://youtu.be/l2MdKm5RN3o) para crer y subir un repositorio con Git 
 
 ## Proyectos e ideas
 
