@@ -73,7 +73,7 @@ Día 1 cumplido!
 
 **Enlcace(s) a mi trabajo:**
 
-[Ejemplos](\D1)
+[Ejemplos](https://github.com/zoiber/100-days-of-code-R1/tree/master/D1)
 
 ---
 
