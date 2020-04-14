@@ -33,8 +33,49 @@ Los cursos de pago los iré tomando conforme considere necesario.
 Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el desarrollo del reto.
 
 ---
+<!--
+### Día 0: 12 de Abril, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+
+**Progresos:**
+
+
+**Reflexiones:**
+
+
+**Enlcace(s) a mi trabajo:**
+
+---
+-->
+
+
 
 # Registro de programación
+
+### Día 1: 13 de Abril, 2020 - Lunes
+
+**Proyectos de hoy:**
+- HTTP
+- GIT y GITHUB
+
+**Progresos:**
+- Se conocio sobre el protocolo HTTP.
+- Se conocio sobre el manejo de GITy GITHUB.
+
+**Reflexiones:**
+
+Fue un día satisfactorio, a pesar de haber iniciado el reto ya en horas de la noches logre cumplir con los temas para hoy.
+Esta sesión la he terminado el 14 a la 1am.
+
+Día 1 cumplido!
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos](\D1)
+
+---
 
 ## Prelanzamiento - GitHub, Twitter y Free Code Camp
 ### Día 0: 12 de Abril, 2020 - Domingo
