@@ -54,19 +54,24 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
-<!--
-### Día 0: 12 de Abril, 2020 - Domingo
+
+### Día 2: 14 de Abril, 2020 - Martes
 
 **Proyectos de hoy:**
-
+- Git
+- HTML
 
 **Progresos:**
 
+- Se reviso documentación sobre git y recomendaciones para los commit.
+- Se inició las clases básicas de FreeCodeCamp sobre HTML y HMTL 5.
 
 **Reflexiones:**
-
+- Fue un día muy productivo, a pesar de todas las actividades del trabajo, se logró conseguir tiempo. A pesar de la  cuarentena, la motivación por aprender algo nuevo me mantiene positivo.
 
 **Enlcace(s) a mi trabajo:**
+
+[Día 2](https://github.com/zoiber/100-days-of-code-R1/tree/master/D2)
 
 ---
 
