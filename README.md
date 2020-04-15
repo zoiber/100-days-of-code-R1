@@ -54,6 +54,22 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+<!--
+### Día 0: 12 de Abril, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+
+**Progresos:**
+
+
+**Reflexiones:**
+
+
+**Enlcace(s) a mi trabajo:**
+
+---
+
 ### Día 1: 13 de Abril, 2020 - Lunes
 
 **Proyectos de hoy:**

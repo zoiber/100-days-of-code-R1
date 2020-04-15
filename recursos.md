@@ -30,8 +30,9 @@
 4. Versión en español del libro [Pro Git](https://git-scm.com/book/es/v2)
 5. [Metodología CSS: Block Element Modifier (BEM)](https://blog.interactius.com/metodolog%C3%ADa-css-block-element-modifier-bem-f26e69d1de3)
 6. Entiende como funciona Git Y GitHub [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
-7. [Video](https://youtu.be/l2MdKm5RN3o) para crer y subir un repositorio con Git 
-
+7. [Video](https://youtu.be/l2MdKm5RN3o) para crer y subir un repositorio con Git
+8. Comandos útiles de Git [Enlace]()
+9. Como escribir mensajes de los commit [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 ## Proyectos e ideas
 
 
