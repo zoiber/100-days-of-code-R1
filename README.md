@@ -54,6 +54,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 3: 15 de Abril, 2020 - Miércoles
+
+**Proyectos de hoy:**
+
+- HTML
+- CSS
+
+**Progresos:**
+
+- Se continuo revisando sobre conceptos de HTML a través de ejemplos en FCC.
+- Se inició a revisar conceptos sobre CSS.
+
+**Reflexiones:**
+EL día de hoy a sido un día muy ajetreado en el trabajo. No se logré avanzar con mis tareas del día pero logré conseguir un espacio para el reto. Se siente bien poder hacer lo que me gusta.
+
+**Enlcace(s) a mi trabajo:**
+[Ejemplos día 3](https://github.com/zoiber/100-days-of-code-R1/tree/master/D3)
+
+---
 
 ### Día 2: 14 de Abril, 2020 - Martes
 
@@ -63,7 +82,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Progresos:**
 
-- Se reviso documentación sobre git y recomendaciones para los commit.
+- Se revisó documentación sobre git y recomendaciones para los commit.
 - Se inició las clases básicas de FreeCodeCamp sobre HTML y HMTL 5.
 
 **Reflexiones:**
@@ -71,7 +90,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Enlcace(s) a mi trabajo:**
 
-[Ejemplo](https://github.com/zoiber/100-days-of-code-R1/tree/master/D2)
+[Ejemplos día 2](https://github.com/zoiber/100-days-of-code-R1/tree/master/D2)
 
 ---
 
