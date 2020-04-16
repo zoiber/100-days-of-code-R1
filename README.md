@@ -71,7 +71,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Enlcace(s) a mi trabajo:**
 
-[Día 2](https://github.com/zoiber/100-days-of-code-R1/tree/master/D2)
+[Ejemplo](https://github.com/zoiber/100-days-of-code-R1/tree/master/D2)
 
 ---
 
