@@ -54,6 +54,27 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+
+### Día 4: 12 de Abril, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+- HMTL (Se terminó lo básico)
+- CSS (Se terminó lo básico)
+
+**Progresos:**
+
+- Se entendió como funcionan las clases en HTML y como interactuan entre ellas.
+- Se reviso la creación de variables en CSS, las diferentes formas agregar colores, y como mejorar la compatibilidad para los navegadores.
+
+**Reflexiones:**
+Pues me siento contento de seguir en este desafio. Aun se siente largo los 100 días, pero un paso a la vez.
+Hoy ha sido un buen día a pesar de la cuarentena se a cumplido con el trabajo y con el reto. 
+
+**Enlcace(s) a mi trabajo:**
+
+---
+
 ### Día 3: 15 de Abril, 2020 - Miércoles
 
 **Proyectos de hoy:**
