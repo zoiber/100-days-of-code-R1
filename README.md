@@ -69,9 +69,11 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Reflexiones:**
 Pues me siento contento de seguir en este desafio. Aun se siente largo los 100 días, pero un paso a la vez.
-Hoy ha sido un buen día a pesar de la cuarentena se a cumplido con el trabajo y con el reto. 
+Hoy ha sido un buen día a pesar de la cuarentena se a cumplido con el trabajo y con el reto.
 
 **Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 4](https://github.com/zoiber/100-days-of-code-R1/tree/master/D4)
 
 ---
 
@@ -91,6 +93,7 @@ Hoy ha sido un buen día a pesar de la cuarentena se a cumplido con el trabajo y
 EL día de hoy a sido un día muy ajetreado en el trabajo. No se logré avanzar con mis tareas del día pero logré conseguir un espacio para el reto. Se siente bien poder hacer lo que me gusta.
 
 **Enlcace(s) a mi trabajo:**
+
 [Ejemplos día 3](https://github.com/zoiber/100-days-of-code-R1/tree/master/D3)
 
 ---
@@ -134,7 +137,7 @@ Día 1 cumplido!
 
 **Enlcace(s) a mi trabajo:**
 
-[Ejemplos](https://github.com/zoiber/100-days-of-code-R1/tree/master/D1)
+[Ejemplos día 1](https://github.com/zoiber/100-days-of-code-R1/tree/master/D1)
 
 ---
 
