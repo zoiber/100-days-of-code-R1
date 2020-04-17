@@ -54,7 +54,6 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
-
 ### Día 4: 16 de Abril, 2020 - Jueves
 
 **Proyectos de hoy:**
