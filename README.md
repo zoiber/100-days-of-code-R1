@@ -58,14 +58,21 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Proyectos de hoy:**
 
+- Página en HTML
 
 **Progresos:**
+
+Se realizó una pequeña página web con lo más básico de HTML. Me siento muy bien pese a tener mucho tiempo hoy.
 
 
 **Reflexiones:**
 
+Hoy me llegaron pensamientos de si aprender programación web me servirá para algo.
+
 
 **Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 5](https://github.com/zoiber/100-days-of-code-R1/tree/master/D5)
 
 ### Día 4: 16 de Abril, 2020 - Jueves
 
