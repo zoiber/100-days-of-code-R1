@@ -70,7 +70,7 @@ Se aprende mejor cuando se dispone de un maestro. Los días pasados he ido muy l
 De ahora en adelante, tratar de tomar algunos cursos para acelerar el proceso de aprendizaje.
 
 **Enlcace(s) a mi trabajo:**
-[Ejemplos día 6](https://github.com/zoiber/100-days-of-code-R1/tree/master/D5)
+[Ejemplos día 6](https://github.com/zoiber/100-days-of-code-R1/tree/master/D6)
 
 ### Día 5: 17 de Abril, 2020 - Viernes
 
