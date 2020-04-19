@@ -1,7 +1,7 @@
 
 body{
   background-color: #FBD4D5;
-  background-image: url(img/patron4.jpg);
+  background-image: url(img/patron.jpg);
 
   /* background-repeat: no-repeat;  /*Si no queriero repetir el patron*/
   /* background-size: 100% 100%;  /*Si utilizo un fondo de gran tamaño*/ */
@@ -11,7 +11,9 @@ body{
 
 
   text-align: justify;
-
+  text-indent: 15px; /*  Para agregar tabulatura a cada parrafo del body */
+  word-spacing: 10px; /*Para separar palabras*/
+  letter-spacing: 5pX;  /*Para agregar espaciado entre letras*/
 }
 
 #caja{
@@ -21,8 +23,10 @@ body{
   color: white;
   font-family: "Open Sans";
   text-align: center;
-  line-height: 40px;     /*Paa regular la altura de linea*/
+  /* line-height: 40px;     /*Paa regular la altura de linea*/ */
   text-transform: uppercase; /*Para pasar a mayusculas las letras*/
+  text-decoration: line-through;
+  vertical-align: top;
 }
 
 h2{
