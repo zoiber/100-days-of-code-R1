@@ -24,10 +24,9 @@ Este reto es parte  de Alexander Kallaway [100DaysOfCode-Repo](https://github.co
 Los cursos de pago los iré tomando conforme considere necesario.
 
   - [ ] Completar el programa de cetificación [Responsive Web Design Certification (300 hours)](https://www.freecodecamp.com/james-priest "FCC Profile") en FCC.
+  - [ ] Tomar el curso [Master en CSS: Responsive, SASS, Flexbox, Grid y Bootstrap 4](https://www.udemy.com/share/102pAcBEAaclpQR3Q=/) en Udemy.
   - [ ] Tomar el curso [Desarrollo web en PHP con Laravel 5.6, VueJS y MariaDB Mysql](https://www.udemy.com/course/desarrollo-web-en-php-con-laravel-vuejs-y-mariadb/) en Udemy.
-  - [ ] Tomar el curso [Curso de Desarrollo Web Completo 2.0](https://www.udemy.com/course/curso-de-desarrollo-web-completo-2/) en Udemy.
-
-  - [ ] Tomar el curso [Curso de Introducción a Laravel - Platzi](https://platzi.com/cursos/intro-laravel/) en Platzi.
+  - [ ] Tomar el curso [Curso de Introducción a Laravel - Platzi](https://platzi.com/cursos/intro-laravel/) en Platzi (Tentativo).
 
 ### Recursos útiles para el Reto
 Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el desarrollo del reto.
@@ -53,6 +52,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 
 # Registro de programación
+
+
+
+
+### Día 0: 12 de Abril, 2020 - Domingo
+
+**Proyectos de hoy:**
+- Selectores, Fuentes, Colores, Fondos y textos con CSS
+
+**Progresos:**
+Se entiendo como trabajar con CSS.
+Este día tomó el curso de Victor Robles [Master en CSS: Responsive, SASS, Flexbox, Grid y Bootstrap 4](https://www.udemy.com/share/102pAcBEAaclpQR3Q=/)
+
+**Reflexiones:**
+Se aprende mejor cuando se dispone de un maestro. Los días pasados he ido muy lento debio al hecho de desconocer sobre la programación web.
+De ahora en adelante, tratar de tomar algunos cursos para acelerar el proceso de aprendizaje.
+
+**Enlcace(s) a mi trabajo:**
+
 
 ### Día 5: 17 de Abril, 2020 - Viernes
 

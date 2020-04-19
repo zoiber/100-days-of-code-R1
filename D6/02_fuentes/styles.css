@@ -1,0 +1,39 @@
+/*Para cargar fuentes utilizamos el @*/
+@font-face {
+  font-family: CrimosonFuenteCustom;
+  src: url(fonts/CrimsonText-Regular.ttf);
+}
+
+h1{
+  /*font-family: Arial, Helvetica, cursive;*/
+  font-family: 'Noto Serif', serif;
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 45px;
+
+  /*Colores*/
+
+  /*Colores del sistema*/
+  color: BlueViolet;
+
+  /*Colores hexadecimales*/
+  color:#000000;
+  color:#7cb725;
+  /*Colores RGB*/
+  color: rgba(147, 145, 44);
+  /*Colores RGBA*/
+  color: rgba(215, 44, 44, 0.6);
+}
+
+h3{
+  font-family: CrimosonFuenteCustom, "Comic Sans MS";
+  font-size: 25px;
+  font-weight: lighter;
+  color: coral;
+}
+
+p{
+  font-family: sans-serif, Impact;
+  font-size: 18px;
+  font-weight: bold; /*Para hacer negrita la fuente*/
+}

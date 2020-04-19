@@ -33,13 +33,18 @@
 7. [Video](https://youtu.be/l2MdKm5RN3o) para crer y subir un repositorio con Git
 8. Comandos útiles de Git [Enlace]()
 9. Como escribir mensajes de los commit [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+## CSS
+1. [Colores CSS del sistema](https://www.w3schools.com/cssref/css_colors.asp)
+2. [Colores CSS RGBA](https://www.css3maker.com/css-3-rgba.html)
+3. [Fuentes de google](https://fonts.google.com/)
 ## Proyectos e ideas
 
 
 
 ## Otros recursos
 
-1.  Curso [Fundamentos de la gestión del tiempo](https://www.linkedin.com/learning/fundamentos-de-la-gestion-del-tiempo/presentacion-del-curso-fundamentos-de-la-gestion-del-tiempo) de LinkedIn.
+1. Curso [Fundamentos de la gestión del tiempo](https://www.linkedin.com/learning/fundamentos-de-la-gestion-del-tiempo/presentacion-del-curso-fundamentos-de-la-gestion-del-tiempo) de LinkedIn.
 2. Curso [Aprendiendo a aprender](https://www.coursera.org/learn/aprendiendo-a-aprender/home/week/1) de Coursera.
 
 

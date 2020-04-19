@@ -1,0 +1,107 @@
+/*
+########Selectores en CSS#########
+*/
+
+body{
+  background: gray;
+}
+
+/*Selector universisal*/
+*{
+  font-family: Verdana, sans-serif, Tahoma ;
+}
+
+/*Selector de etiqueta*/
+h1{
+  background: red;
+  color:white;
+  padding: 10px;
+}
+
+a{
+  font-size: 18px;
+  color: green;
+  text-decoration: none; /*Para que no tenga esas lineas de subrayado*/
+}
+
+footer a {   /*Esto es un selector compuesto*/
+color:red;
+}
+
+/*Selector de id*/
+#descripcion,
+#titulo{
+  border:5px solid black;
+  padding:15px ; /*Margen interior*/
+}
+
+#titulo{
+  background: blue;
+  border: 2px dashed white;  /*Dashed es un estilo de border (punteado)*/
+}
+
+/*Selector de clase*/
+.parrafo{
+  font-style:  italic;
+  /*text-decoration: underline;*/
+  font-weight: bold;
+  padding: 10px;
+}
+
+.parrafo1{
+  background-color: green;
+  color: white;
+
+}
+
+.parrafo3{
+  background-color: orange;
+  color: black;
+}
+
+/*Selector de atributo*/
+#usuario form{
+  border: 5px solid blue;
+  margin-top: 15px;  /*Espacio respecto a los elementos externos*/
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+#usuario form *{
+    display:   block;      /*Organiza que una cosa vaya seguido de la otra, como un bloque*/
+
+}
+
+input[type = "text"]{   /*Se selecciona por sus atributos*/
+  margin-bottom: 15px;
+  padding: 10px;
+  width:300px;
+}
+
+input[type="submit"]{
+  background-color: green;
+  color: white;
+  padding: 15px;
+  font-size: 17px;
+  text-transform: uppercase; /*Permite transformas un texto a mayuscula*/
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+
+/*Selector de hijo*/
+#menu >li >a{   /*Elementos hijos > justo despues de una etiqueta. Aplica a li y a a.*/
+  font-size: 18px;
+  color: red;
+  text-decoration: none;
+}
+
+
+/*Prioridad*/
+#saludo h1{
+  background: brown !important;  /*Import agrega prioridad sobre otras Cuanto más espicifico sea el selector mejor*/
+}
+
+h1{
+  background: purple !important;
+}

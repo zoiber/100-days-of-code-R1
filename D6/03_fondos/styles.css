@@ -1,0 +1,33 @@
+
+body{
+  background-color: #FBD4D5;
+  background-image: url(img/patron4.jpg);
+
+  /* background-repeat: no-repeat;  /*Si no queriero repetir el patron*/
+  /* background-size: 100% 100%;  /*Si utilizo un fondo de gran tamaño*/ */
+  /* background-attachment: fixed;  /*Para fijar el fondo a la pantalla*/ */
+  /* background-position: left top;  /*Para posicionar el fondo*/ */
+  /* color: black; */
+
+
+  text-align: justify;
+
+}
+
+#caja{
+  border: 5px  solid black;
+  padding: 10px;
+  background-color: rgb(217, 119, 221);
+  color: white;
+  font-family: "Open Sans";
+  text-align: center;
+  line-height: 40px;     /*Paa regular la altura de linea*/
+  text-transform: uppercase; /*Para pasar a mayusculas las letras*/
+}
+
+h2{
+  color: rgb(198, 22, 188);
+  background: white;
+  /* background-image: url(img/patron5.jpg); */
+  border: 5px solid rgb(198, 22, 188);
+}
