@@ -56,7 +56,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 
 
-### Día 0: 12 de Abril, 2020 - Domingo
+### Día 6: 18 de Abril, 2020 - Sábado
 
 **Proyectos de hoy:**
 - Selectores, Fuentes, Colores, Fondos y textos con CSS
