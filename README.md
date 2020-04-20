@@ -55,6 +55,20 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 
 
+### Día 7: 20 de Abril, 2020 - Domingo
+
+**Proyectos de hoy:**
+- Ejercicios CSS 
+
+**Progresos:**
+Se aplicó sobre cajas, posicionamiento, sombras, efectos.
+
+**Reflexiones:**
+Es recomendable revisar varios ejercicios en la web.
+Es interesante como ver que lo aprendido en un semana va dando resultados.
+
+**Enlcace(s) a mi trabajo:**
+[Ejemplos día 7](https://github.com/zoiber/100-days-of-code-R1/tree/master/D7)
 
 ### Día 6: 18 de Abril, 2020 - Sábado
 
