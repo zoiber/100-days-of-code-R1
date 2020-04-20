@@ -68,6 +68,7 @@ Es recomendable revisar varios ejercicios en la web.
 Es interesante como ver que lo aprendido en un semana va dando resultados.
 
 **Enlcace(s) a mi trabajo:**
+
 [Ejemplos día 7](https://github.com/zoiber/100-days-of-code-R1/tree/master/D7)
 
 ### Día 6: 18 de Abril, 2020 - Sábado
@@ -84,6 +85,7 @@ Se aprende mejor cuando se dispone de un maestro. Los días pasados he ido muy l
 De ahora en adelante, tratar de tomar algunos cursos para acelerar el proceso de aprendizaje.
 
 **Enlcace(s) a mi trabajo:**
+
 [Ejemplos día 6](https://github.com/zoiber/100-days-of-code-R1/tree/master/D6)
 
 ### Día 5: 17 de Abril, 2020 - Viernes
