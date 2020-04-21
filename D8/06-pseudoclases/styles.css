@@ -1,0 +1,58 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li{
+    font-size: 20px;
+}
+
+/*Pseudoclases*/
+
+/*First child: seleciona a la primera li que hay*/
+ul li:first-child{   
+    color: red;
+    font-weight: bold;
+}
+
+ul li:nth-child(2){
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+ul li:last-child{
+    color: greenyellow;
+    font-weight: bold;
+}
+
+#mi-enlace{
+    font-size: 30px;
+    color: lightsalmon;
+}
+
+#mi-enlace:link{
+    color:orange;
+}
+
+#mi-enlace:visited{
+    color: orangered;
+}
+
+#mi-enlace:hover{
+    color: blue;
+}
+
+/*Pseudocalse que se activa mientras estoy pulsando el link*/
+#mi-enlace:active{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input[type="text"]{ 
+    margin-top: 20px;
+    padding: 10px;
+}
+
+input[type="text"]:focus{ 
+    border: 4px dashed red;
+
+}

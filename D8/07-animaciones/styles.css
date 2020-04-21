@@ -1,0 +1,73 @@
+#boton{
+    display: block;
+    padding: 20px;
+    background-color: green;
+    color: white;
+    width: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    border: 2px solid rgb(6,83,6);
+
+    /*Transiciones en CSS estan ligadas la hover*/
+    transition: border 500ms, background 3s, border-radius 1s;
+}
+
+#boton:hover{
+    border-radius: 15px;
+    background: orangered;
+    border:5px solid red
+}
+
+#caja{
+    width: 250px;
+    height: 250px;
+    background: rgb(0, 255, 170);
+    color: white;
+    border:25px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 200px;
+    /* Para aplizar animaciones */
+    animation-name: desplazamiento;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; /*Para que el desplazamiento sea lineal*/
+
+}
+
+/* Para crear animaciones*/
+@keyframes desplazamiento{
+    /* from {
+        margin-left: 0px;
+    }
+    to{
+        margin-left: 1200px;
+    } */
+
+/* Otra forma de hacer controlar animaciones */
+0% {
+    margin-left: 0px;
+    /* Para aplicar rotaciones */
+    transform: rotate(0deg);    
+}
+50%{
+    margin-left: 1200px;
+    transform: rotate(360deg);
+    /* Para convertir en una esfera */
+    border-radius: 999px;
+}
+75%{
+    background: red;
+}
+77%{
+    border:10px dashed rgb(255, 0, 234);
+}
+100%{
+    margin-left: 0px;
+    transform: rotate(0deg);
+}
+
+
+}

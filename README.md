@@ -54,8 +54,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 # Registro de programación
 
 
+### Día 8: 20 de Abril, 2020 - Lunes
 
-### Día 7: 20 de Abril, 2020 - Domingo
+**Proyectos de hoy:**
+
+- Animaciones con CSS
+
+**Progresos:**
+
+Se aprendio sobre pseudoclases, transacciones y animaciones con CSS.
+
+**Reflexiones:**
+
+Aun estoy lejos de llegar a ser un buen desarrollador. Solo es cuestión de tiempo, esperame.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 8](https://github.com/zoiber/100-days-of-code-R1/tree/master/D8)
+
+### Día 7: 19 de Abril, 2020 - Domingo
 
 **Proyectos de hoy:**
 - Ejercicios CSS 
