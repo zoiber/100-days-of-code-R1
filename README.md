@@ -68,6 +68,7 @@ Ademas se consulto en la #w3schools sobre HTML y CSS.
 Pense que no iba a terminar el día de hoy por falta de tiempo pero si se pudo.
 Aunque ya tengo sueño jajaj.
 
+Seria interesante recrear esta [página](https://andreasbm.github.io/web-skills/) enfocada al Machine Learning
 **Enlcace(s) a mi trabajo:**
 
 [Ejemplos día 9](https://github.com/zoiber/100-days-of-code-R1/tree/master/D9)
