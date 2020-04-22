@@ -54,6 +54,24 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 # Registro de programación
 
 
+### Día 9: 21 de Abril, 2020 - Martes
+
+**Proyectos de hoy:**
+
+-Maquetación
+
+**Progresos:**
+Se reviso ejemplos de maquetación y se empezó a recrear un página de prueba.
+Ademas se consulto en la #w3schools sobre HTML y CSS.
+
+**Reflexiones:**
+Pense que no iba a terminar el día de hoy por falta de tiempo pero si se pudo.
+Aunque ya tengo sueño jajaj.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 9](https://github.com/zoiber/100-days-of-code-R1/tree/master/D9)
+
 ### Día 8: 20 de Abril, 2020 - Lunes
 
 **Proyectos de hoy:**
@@ -75,7 +93,7 @@ Aun estoy lejos de llegar a ser un buen desarrollador. Solo es cuestión de tiem
 ### Día 7: 19 de Abril, 2020 - Domingo
 
 **Proyectos de hoy:**
-- Ejercicios CSS 
+- Ejercicios CSS
 
 **Progresos:**
 Se aplicó sobre cajas, posicionamiento, sombras, efectos.

@@ -22,6 +22,8 @@
 
 # Recursos adicionales para el #100DaysOfCode
 
+Recomiendo utilizar Visual Studio Code y tambien agregar las siguientes [extensiones](https://codeforgeek.com/best-visual-studio-code-extensions-web-development/)
+La ruta del [desarrollo web](https://andreasbm.github.io/web-skills/)
 ## Artículos útiles
 
 1. [Gentle Explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
