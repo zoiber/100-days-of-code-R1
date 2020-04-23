@@ -53,6 +53,24 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 10: 22 de Abril, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+-Maquetación (Replica de una página web)
+
+**Progresos:**
+
+El día de hoy se trabaje en la maquetación de un página web, se agregó el encabezado y el menú de navegación.
+
+**Reflexiones:**
+
+Hoy me pregunte si me servirá para algo lo que stoy aprendiendo, me dio ganas de empezar a aplicar mis conocimientos en machine learning. 
+Creo que crearé una página web con la ruta para aprender ML.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 10](https://github.com/zoiber/100-days-of-code-R1/tree/master/D10)
 
 ### Día 9: 21 de Abril, 2020 - Martes
 
