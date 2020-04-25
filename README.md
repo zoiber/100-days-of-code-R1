@@ -50,8 +50,27 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 -->
 
 
-
 # Registro de programación
+
+### Día 13: 25 de Abril, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+- Maquetación final (Replica de una página web - parte 4)
+
+**Progresos:**
+
+Se ha terminado de maquetar la página web. 
+
+**Reflexiones:**
+
+Encontre una página muy buenas sobre [simbolos web](https://www.fontsquirrel.com/fonts/web-symbols).
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 13](https://github.com/zoiber/100-days-of-code-R1/tree/master/D13)
+
+---
 
 ### Día 12: 24 de Abril, 2020 - Viernes
 
