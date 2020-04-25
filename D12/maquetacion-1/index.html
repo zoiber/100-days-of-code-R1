@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Master en CSS con PLAI</title>
+    <!-- rel: indica que se agregará un incono en la pestanaña de la página (tamaño 64x64) -->
+    <link rel="icon" type="image/x-icon" href="img/logo.png" />
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  </head>
+  <body>
+    <!-- Inicio de la cabecera -->
+    <header id="header">
+      <div id="logotipo">
+        <img src="img/logo.png" alt="Logo de la web" />
+      </div>
+
+      <h1>
+        <a href="index.html">
+          Máster en CSS
+        </a>
+      </h1>
+    </header>
+
+    <!-- Menú de navegacion -->
+    <nav id="nav">
+      <ul>
+        <li>
+          <a href="index.html">Inicio</a>
+        </li>
+        <li>
+          <a href="index.html">Cotenido</a>
+        </li>
+        <li>
+          <a href="index.html">Requerimientos</a>
+        </li>
+        <li>
+          <a href="index.html">Lenguajes</a>
+          <ul>
+            <li>
+              <a href="index.html">HTML</a>
+            </li>
+            <li>
+              <a href="index.html">CSS</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="index.html">Frameworks</a>
+          <ul>
+            <li>
+              <a href="index.html">LESS</a>
+            </li>
+            <li>
+              <a href="index.html">SASS</a>
+            </li>
+            <li>
+              <a href="index.html">Bootstrap</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="index.html">Proyectos</a>
+        </li>
+        <li>
+          <a href="index.html">El instructor</a>
+        </li>
+        <li>
+          <a href="index.html">Reseñas</a>
+        </li>
+        <li>
+          <a href="index.html">Blog</a>
+        </li>
+        <li>
+          <a href="index.html">Contacto</a>
+        </li>
+      </ul>
+    </nav>
+    <!-- Fin del menú -->
+
+    <!--Inicio del contenido central -->
+    <div id="content">
+      <!-- Inicio de la barra lateral -->
+      <aside id="aside">
+        <!-- aside es la semantica para hacer un menu lateral-->
+
+        <div class="widget" id="login">
+          <h3>Entrar a la web</h3>
+          <form action="">
+            <label for="">Usuario</label>
+            <input type="text" />
+
+            <label for="">Contraseña</label>
+            <input type="password" />
+
+            <input type="submit" value="Entrar" />
+          </form>
+
+          <a href="#">Zona de alumnos</a>
+          <a href="#">Zona del profesor</a>
+          <a href="#">Acceso a calificaciones</a>
+        </div>
+
+        <div class="widget" id="login2">
+          <h3 class="blue">Aula virtual 1</h3>
+          <form action="">
+            <label for="">Nombre de usuario</label>
+            <input type="text" />
+
+            <label for="">Contraseña</label>
+            <input type="password" />
+
+            <input type="submit" value="Entrar" />
+          </form>
+
+          <a href="#">Zona de alumnos</a>
+          <a href="#">Zona del profesor</a>
+          <a href="#">Acceso a calificaciones</a>
+        </div>
+
+        <div class="widget" id="login3">
+          <h3 class="red">Aula virtual 2</h3>
+          <form action="">
+            <label for="">Nombre de usuario</label>
+            <input type="text" />
+
+            <label for="">Contraseña</label>
+            <input type="password" />
+
+            <input type="submit" value="Entrar" />
+          </form>
+
+          <a href="#">Zona de alumnos</a>
+          <a href="#">Zona del profesor</a>
+          <a href="#">Acceso a calificaciones</a>
+        </div>
+
+        <div class="widget" id="login">
+          <h3>Enlaces de interes</h3>
+          <ul>
+            <li>
+              <a href="https://www.linkedin.com/in/pablo-lucero-ec/">
+                Perfil LinkedIn de Pablo Lucero
+              </a>
+            </li>
+
+            <li>
+              <a href="https://twitter.com/PabloLuceroEC">
+                Perfil Twitter de Pablo Lucero
+              </a>
+            </li>
+
+            <li>
+              <a href="https://twitter.com/PabloLuceroEC">
+                Perfil Twitter de Pablo Lucero
+              </a>
+            </li>
+
+            <li>
+              <a href="https://twitter.com/PabloLuceroEC">
+                Perfil RG de Pablo Lucero
+              </a>
+            </li>
+
+            <li>
+              <a href="https://twitter.com/PabloLuceroEC">
+                Perfil GS de Pablo Lucero
+              </a>
+            </li>
+          </ul>
+        </div>
+      </aside>
+      <!-- Fin de la barra lateral -->
+
+      <aside id="frase">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta neque
+        nemo eaque in cupiditate ad blanditiis, sit nesciunt atque veniam?
+        Possimus quae beatae saepe! Quae debitis necessitatibus pariatur eaque
+        sunt!
+        <a href="#">Leer más frases</a>
+      </aside>
+
+      <!-- Inicio de las secciones -->
+      <div id="sections">
+
+        <section id="frontend">
+          <span class="sticker">
+            <img class="strickeroOne" src="img/scotch.png" alt="pegatina" />
+            <img class="strickeroTwo" src="img/scotch.png" alt="pegatina" />
+          </span>
+          <h2 class="titulo">Noticias de Front end</h2>
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+        </section>
+
+        <section id="frontend">
+          <span class="sticker">
+            <img class="strickeroOne" src="img/scotch.png" alt="pegatina" />
+            <img class="strickeroTwo" src="img/scotch.png" alt="pegatina" />
+          </span>
+          <h2 class="titulo">Noticias de Backend</h2>
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+        </section>
+
+        <section id="frontend">
+          <span class="sticker">
+            <img class="strickeroOne" src="img/scotch.png" alt="pegatina" />
+            <img class="strickeroTwo" src="img/scotch.png" alt="pegatina" />
+          </span>
+          <h2 class="titulo">Noticias del instructor</h2>
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+
+          <article id="article">
+            <p>
+              <a href="#">Titulo de la entrada</a>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              nam debitis iste quasi quas. Maiores esse repellendus accusamus
+              explicabo molestias, voluptates veniam minima possimus dignissimos
+              unde eius eos officia doloremque?
+            </p>
+            <span class="date">[20-20-2020. PLAI]</span>
+          </article>
+        </section>
+
+      </div>
+    </div>
+    <!--Fin del contenido central -->
+  </body>
+</html>

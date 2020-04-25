@@ -53,11 +53,51 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 12: 24 de Abril, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+- Maquetación (Replica de una página web - parte 4)
+
+**Progresos:**
+
+Se teminó la maquetación de la barra lateral, y se empezo a trabajar en la sección artículos.
+
+**Reflexiones:**
+
+Me siento bien, comprendo como funciona esto de la maquetación y siento que podré mejorar conforme siga practicando.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 12](https://github.com/zoiber/100-days-of-code-R1/tree/master/D12)
+
+---
+
+### Día 11: 23 de Abril, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+- Maquetación (Replica de una página web - parte 3)
+
+**Progresos:**
+
+Se continuo con el desarrollo de un sitio web usando Html y Css. Hoy se agrego submenus y una barra lateral para el login.
+
+**Reflexiones:**
+
+Un día cansado, toco volver al trabajo luego de una larga cuarentena.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 11](https://github.com/zoiber/100-days-of-code-R1/tree/master/D11)
+
+---
+
 ### Día 10: 22 de Abril, 2020 - Miercoles
 
 **Proyectos de hoy:**
 
--Maquetación (Replica de una página web)
+- Maquetación (Replica de una página web - parte 2)
 
 **Progresos:**
 
@@ -72,11 +112,13 @@ Creo que crearé una página web con la ruta para aprender ML.
 
 [Ejemplos día 10](https://github.com/zoiber/100-days-of-code-R1/tree/master/D10)
 
+---
+
 ### Día 9: 21 de Abril, 2020 - Martes
 
 **Proyectos de hoy:**
 
--Maquetación
+- Maquetación (Replica de una página web - parte1)
 
 **Progresos:**
 Se reviso ejemplos de maquetación y se empezó a recrear un página de prueba.
@@ -90,6 +132,8 @@ Seria interesante recrear esta [página](https://andreasbm.github.io/web-skills/
 **Enlcace(s) a mi trabajo:**
 
 [Ejemplos día 9](https://github.com/zoiber/100-days-of-code-R1/tree/master/D9)
+
+---
 
 ### Día 8: 20 de Abril, 2020 - Lunes
 
@@ -109,6 +153,8 @@ Aun estoy lejos de llegar a ser un buen desarrollador. Solo es cuestión de tiem
 
 [Ejemplos día 8](https://github.com/zoiber/100-days-of-code-R1/tree/master/D8)
 
+---
+
 ### Día 7: 19 de Abril, 2020 - Domingo
 
 **Proyectos de hoy:**
@@ -124,6 +170,8 @@ Es interesante como ver que lo aprendido en un semana va dando resultados.
 **Enlcace(s) a mi trabajo:**
 
 [Ejemplos día 7](https://github.com/zoiber/100-days-of-code-R1/tree/master/D7)
+
+---
 
 ### Día 6: 18 de Abril, 2020 - Sábado
 
@@ -141,6 +189,8 @@ De ahora en adelante, tratar de tomar algunos cursos para acelerar el proceso de
 **Enlcace(s) a mi trabajo:**
 
 [Ejemplos día 6](https://github.com/zoiber/100-days-of-code-R1/tree/master/D6)
+
+---
 
 ### Día 5: 17 de Abril, 2020 - Viernes
 
@@ -161,6 +211,8 @@ Hoy me llegaron pensamientos de si aprender programación web me servirá para a
 **Enlcace(s) a mi trabajo:**
 
 [Ejemplos día 5](https://github.com/zoiber/100-days-of-code-R1/tree/master/D5)
+
+---
 
 ### Día 4: 16 de Abril, 2020 - Jueves
 
