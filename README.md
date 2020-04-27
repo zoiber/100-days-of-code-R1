@@ -52,6 +52,26 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 14: 26 de Abril, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+-Responsive
+
+**Progresos:**
+
+Se apredio sobre responsive y se realizo una maquetación simple para entender como funciona las query.
+
+**Reflexiones:**
+
+Tengo pensado empezar 100daysOdCode en machine learning.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 14](https://github.com/zoiber/100-days-of-code-R1/tree/master/D14)
+
+---
+
 ### Día 13: 25 de Abril, 2020 - Sábado
 
 **Proyectos de hoy:**
@@ -65,6 +85,8 @@ Se ha terminado de maquetar la página web.
 **Reflexiones:**
 
 Encontre una página muy buenas sobre [simbolos web](https://www.fontsquirrel.com/fonts/web-symbols).
+
+El día de hoy encontre un curso muy bueno para tomarlo a la par con el reto. Se llama [CS50x](https://cs50.harvard.edu/x/2020/tracks/web/)
 
 **Enlcace(s) a mi trabajo:**
 
