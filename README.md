@@ -49,8 +49,29 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 ---
 -->
 
-
 # Registro de programación
+
+### Día 15: 27 de Abril, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+- Proyecto propio
+
+**Progresos:**
+
+- Se realizó la maquetación de un proyecto propio. 
+
+**Reflexiones:**
+
+- Es importante trabajar con una paleta de colores para elegir los colores para nuestra página.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 15](https://github.com/zoiber/100-days-of-code-R1/tree/master/D15)
+
+---
+
+
 
 ### Día 14: 26 de Abril, 2020 - Domingo
 
@@ -60,7 +81,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Progresos:**
 
-Se apredio sobre responsive y se realizo una maquetación simple para entender como funciona las query.
+Se apredio sobre responsive y se realizo una maquetación simple para entender como funcionan las media queries.
 
 **Reflexiones:**
 
