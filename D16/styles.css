@@ -1,0 +1,113 @@
+/* Agrego estilos generales de la página */
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.cearfix {
+  float: none;
+  clear: both;
+}
+
+#container {
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  margin: 0px auto;  
+}
+
+#header {
+  text-decoration: none;
+  background-color: #3f2d3b;  
+}
+
+#main-nav {  
+  width: 100%;
+  height: 100px;  
+  padding-top: 20px;  
+  line-height: 30px;  
+  /* background: red;   */
+  padding-left: 30px ;   
+}
+
+
+#main-nav ul {
+  list-style: none;
+  text-decoration: none;
+  margin: 0px auto;  
+  width: 1300px;
+  text-transform: uppercase;
+  
+}
+
+#main-nav ul li {
+  /* Da independencia al menu de navegaicion */
+  float: left;
+  padding: 10px;
+  margin-right: 30px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+
+
+#main-nav ul li a{
+    display: block;
+    color: white;    
+    padding-left: 40px;
+    padding-right: 40px;    
+    text-align: center;
+    text-decoration: none;
+    /* border: 1px solid white; */
+}
+
+
+
+#page-name div{ 
+    width: 100px;    
+    border: 2px solid white;
+    text-align: center;
+    font-size: 20px;        
+}
+
+
+#main-nav ul li:hover a{
+    /* Da independencia al menu de navegaicion */
+    color:  #FAB509;    
+  }
+
+/* CONTENIDO */
+.sections {
+  background-color: white;
+}
+
+.sections #bienvenidos {
+  background: #743042;
+  text-align: center;
+  height: 300px;
+  color: white;
+}
+
+.sections #menu {
+  background: #dd800b;
+  text-align: center;
+  height: 300px;
+  color: white;
+}
+
+.sections #horarios {
+  background: #fab509;
+  text-align: center;
+  height: 300px;  
+  color: white;
+}
+
+.sections #galeria {
+  height: 300px;
+  text-align: center;
+}
+.sections #contactos {
+  background: #3f2d3b;
+  text-align: center;
+  height: 300px;
+  color: white;
+}

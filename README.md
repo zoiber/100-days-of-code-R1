@@ -51,11 +51,32 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 16: 28 de Abril, 2020 - Martes
+
+**Proyectos de hoy:**
+
+- Proyecto propio (Parte 2)
+
+**Progresos:**
+
+- Se empezo a maquetar con HTML y CSS. 
+
+**Reflexiones:**
+
+- Debo practicar más los ejemplos de cada sección para mejorar la comprensión sobre HTML y CSS. 
+- Utilizar los ejercicios de FCC.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 16](https://github.com/zoiber/100-days-of-code-R1/tree/master/D16)
+
+---
+
 ### Día 15: 27 de Abril, 2020 - Lunes
 
 **Proyectos de hoy:**
 
-- Proyecto propio
+- Proyecto propio (Parte 1)
 
 **Progresos:**
 
