@@ -51,6 +51,29 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+
+
+
+### Día 17: 29 de Abril, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+- Proyecto propio (Parte 3)
+
+**Progresos:**
+
+- Se continuo con la maquetación pero en este caso decidí cambiar a Flex.
+
+**Reflexiones:**
+
+Me di cuenta de que aprendo mejor haciendo sobre la marcha las cosas, en lugar de leer mucho y luego querer hacer.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 17](https://github.com/zoiber/100-days-of-code-R1/tree/master/D17)
+
+---
+
 ### Día 16: 28 de Abril, 2020 - Martes
 
 **Proyectos de hoy:**
