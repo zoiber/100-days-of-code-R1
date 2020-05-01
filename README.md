@@ -52,7 +52,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 # Registro de programación
 
 
+### Día 18: 30 de Abril, 2020 - Jueves
 
+**Proyectos de hoy:**
+
+- Repaso en Html CSS.
+
+**Progresos:**
+
+Se reviso la teoria sobre html y css.
+
+**Reflexiones:**
+
+Revisar más ejercicios para mejorar en el desarollo web.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 18](https://github.com/zoiber/100-days-of-code-R1/tree/master/D18)
+
+---
 
 ### Día 17: 29 de Abril, 2020 - Miercoles
 

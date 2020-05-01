@@ -1,0 +1,106 @@
+/* ESTILOS GENERALES */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: yellow;
+}
+
+.container{
+    background: white;
+}
+
+.cearfix {
+    float: none;
+    clear: both;
+  }
+/* MENU DE NAVEGACION */
+.header{
+    background: #3F2D3B;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header .hijo{
+    width: 70px;
+    margin: 0 auto;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#page-name{
+    width: 87px;    
+    border: 3px solid white;
+}
+/* ESTILOS PARA SECCIONES */
+
+.principal {
+    width: 100%;        
+    color: white;
+}
+
+.foto-cabecera{
+    background: white;
+    height: 200px;
+    color: black;
+}
+
+.bienvenidos{
+    background: #743042;
+    height: 200px;
+    text-align: center;
+}
+
+.menu {
+    width: 100%;    
+    height: 400px;     
+    background: #DD800B;
+}
+
+.menu div {
+    position: relative;
+    width: 400px;    
+    height: 200px;     
+    background: red;
+    text-align: center;
+    float: left;
+    margin: 0 auto;
+    top: 50%;
+}
+
+.menu div div{
+    width: 200px;
+    height: 200px;    
+    background: #3F2D3B;
+    text-decoration: none;    
+    /* display: inline-block; */
+    border: 1px solid white;        
+    float: left;
+    margin: 0 auto;
+}
+.galeria{
+    background: white;
+    height: 200px;
+    color: black;
+    text-align: center;
+}
+
+.horarios{
+    background: #FAB509;
+    height: 200px;
+    text-align: center;
+}
+
+.contactos{
+    background: #3F2D3B;
+    height: 200px;
+    text-align: center;
+}
+
