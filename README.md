@@ -51,6 +51,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 19: 01 de Mayo, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+- Práctica de Html y Css. 
+
+**Progresos:**
+
+- Se sigue entendiendo sobre la Programación Web. 
+
+**Reflexiones:**
+
+- Hoy me toco levantarme pronto, 6am, para poder alcanzar el reto. Vamos por buen camino
+
+**Enlcace(s) a mi trabajo:** 
+
+[Ejemplos día 19](https://github.com/zoiber/100-days-of-code-R1/tree/master/D19)
+
+---
 
 ### Día 18: 30 de Abril, 2020 - Jueves
 
