@@ -33,6 +33,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 ---
 <!--
+
 ### Día 0: 12 de Abril, 2020 - Domingo
 
 **Proyectos de hoy:**
@@ -47,11 +48,37 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 **Enlcace(s) a mi trabajo:**
 
 ---
+
 -->
 
 # Registro de programación
 
-### Día 19: 01 de Mayo, 2020 - Domingo
+
+
+
+
+
+### Día 20: 02 de Mayo, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+- Practica diseño html y css.
+
+**Progresos:**
+
+- Se agrego una barra de menu y se busco una imagen que armonice con el color de la cebacera.
+
+**Reflexiones:**
+
+- Me estoy planteando si realmente quiero seguir este reto, siento que hay otras cosas como ML que me irían mejor. Veamos que pasa los siguientes días.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 20](https://github.com/zoiber/100-days-of-code-R1/tree/master/D20)
+
+---
+
+### Día 19: 01 de Mayo, 2020 - Viernes
 
 **Proyectos de hoy:**
 
