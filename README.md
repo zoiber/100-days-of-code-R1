@@ -56,7 +56,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 
 
+### Día 21: 03 de Mayo, 2020 - Domingo
 
+**Proyectos de hoy:**
+
+- Diseño proyecto propio
+
+**Progresos:**
+
+- Se continuo trabajando en un proyecto propio utilizando HTML, CSS y JS. 
+
+**Reflexiones:**
+
+- No importa si esto es o no para tí. Me esta ayudando a crear un hábito muy importante para mi desarrollo personal.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 21](https://github.com/zoiber/100-days-of-code-R1/tree/master/D21)
+
+---
 
 ### Día 20: 02 de Mayo, 2020 - Sábado
 
