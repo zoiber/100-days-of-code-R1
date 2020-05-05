@@ -51,7 +51,32 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 -->
 
+
 # Registro de programación
+
+
+
+
+
+
+
+### Día 23: 05 de Mayo, 2020 - Martes
+
+**Proyectos de hoy:**
+
+- Introduccion a JavaScript
+
+**Progresos:**
+
+- Se reviso algunos conceptos básicos de Java Script y se jugo creando diferentes cosas para manipular dar iteractividad al html.
+
+**Reflexiones:**
+
+- Creo que en este apartado me demoraré más para ahondar mis conocimientos en programación en general.
+
+**Enlcace(s) a mi trabajo:**
+
+
 
 
 ### Día 22: 04 de Mayo, 2020 - Lunes
