@@ -54,13 +54,31 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 # Registro de programación
 
 
+### Día 22: 04 de Mayo, 2020 - Lunes
 
+**Proyectos de hoy:**
+
+- Diseño proyecto propio (Parte 5)
+
+**Progresos:**
+
+- El día de hoy se revisó documentación de CSS y se trabajo sobre el diseño de una página propia.
+
+**Reflexiones:**
+
+- Hoy he pasado más en actividades de ayuda en la casa, pero me he dado tiempo para cumplir el reto. Siento que debo seguir mejorando mi organización.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 22](https://github.com/zoiber/100-days-of-code-R1/tree/master/D22)
+
+---
 
 ### Día 21: 03 de Mayo, 2020 - Domingo
 
 **Proyectos de hoy:**
 
-- Diseño proyecto propio
+- Diseño proyecto propio (Parte 4)
 
 **Progresos:**
 

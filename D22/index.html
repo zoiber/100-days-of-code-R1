@@ -3,9 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
-    <!-- Slider -->
+    <link rel="stylesheet" href="styles.css" />    
     <title>El Cuy</title>
   </head>
   <body>
@@ -89,77 +87,38 @@
           <br />
           <div class="galeria-contenedor">
             <div class="w3-content w3-display-container">
-              <img
-                class="mySlides"
-                src="img/galeria-1.jpg"
-                width="900"
+              <img class="mySlides" src="img/galeria-1.jpg" width="900"
                 height="600"
               />
-              <img
-                class="mySlides"
-                src="img/galeria-2.jpg"
-                width="900"
-                height="600"
-              />
-              <img
-                class="mySlides"
-                src="img/galeria-3.jpg"
-                width="900"
-                height="600"
-              />
-              <button
-                class="w3-button w3-white w3-display-left"
-                onclick="plusDivs(-1)"
-              >
+              <button class="w3-button w3-white w3-display-left">
                 &#10094;
               </button>
-              <button
-                class="w3-button w3-white w3-display-right"
-                onclick="plusDivs(1)"
-              >
-                &#10095;
+              <button class="w3-button w3-white w3-display-right">             
+                &#10095;   
               </button>
               <!-- <button type="button">Click Me!</button> -->
             </div>
 
-            <script>
-              var slideIndex = 1;
-              showDivs(slideIndex);
-
-              function plusDivs(n) {
-                showDivs((slideIndex += n));
-              }
-
-              function showDivs(n) {
-                var i;
-                var x = document.getElementsByClassName("mySlides");
-                if (n > x.length) {
-                  slideIndex = 1;
-                }
-                if (n < 1) {
-                  slideIndex = x.length;
-                }
-                for (i = 0; i < x.length; i++) {
-                  x[i].style.display = "none";
-                }
-                x[slideIndex - 1].style.display = "block";
-              }
-            </script>
           </div>
         </section>
 
         <section class="horarios">
-          <h1><b>Horarios</b></h1>
+          <div class="horarios-contenedor">
+            <h1><b>Horarios</b></h1>
           <h3>Sábados y Domingos</h3>
           <h3>09:00 - 16:00</h3>
-          <div>
+          <div class="horarios-nota">
             <p>
-              Los pedidos deben ser realizados con 24 horas de anticipación para
+              <b>Nota:</b> Los pedidos deben ser realizados con 24 horas de anticipación para
               garantizar una entrega puntual.
             </p>
           </div>
+          </div>
+          
         </section>
+        <div class="clearfix"></div>
       </section>
+
       <footer class="contactos">
         <h1><b>Contactos</b></h1>
       </footer>
