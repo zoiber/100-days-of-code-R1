@@ -57,7 +57,26 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 
 
+### Día 24: 06 de Mayo, 2020 - Miercoles
 
+**Proyectos de hoy:**
+
+- JavaScript
+
+**Progresos:**
+
+- Se empezo con una introducción a JavaScript y se reviso temas de accesibilidad e internacionalización web. 
+
+**Reflexiones:**
+
+- El ir caminando al trabajo y las reuniones de la tarde me esta consumiendo demasiada energia. Pero no pienso dejar el reto de #100daysOfCode.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 24](https://github.com/zoiber/100-days-of-code-R1/tree/master/D24)
+
+
+---
 
 
 ### Día 23: 05 de Mayo, 2020 - Martes
@@ -76,7 +95,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Enlcace(s) a mi trabajo:**
 
-
+[Ejemplos día 23](https://github.com/zoiber/100-days-of-code-R1/tree/master/D23)
 
 
 ### Día 22: 04 de Mayo, 2020 - Lunes
