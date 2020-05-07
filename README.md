@@ -55,13 +55,31 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 # Registro de programación
 
 
+### Día 25: 07 de Mayo, 2020 - Jueves
 
+**Proyectos de hoy:**
+
+- Introducción a JavaScript
+
+**Progresos:**
+
+- Hoy leí un poco sobre JS, y programe dos botones simples. Debo mejorar mi CSS. El tiempo no me dio para más.
+
+**Reflexiones:**
+
+Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dudas o frustraciones solo aceptarlas y dejarlas ser. Luego ellas solas se iran.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 24](https://github.com/zoiber/100-days-of-code-R1/tree/master/D25)
+
+---
 
 ### Día 24: 06 de Mayo, 2020 - Miercoles
 
 **Proyectos de hoy:**
 
-- JavaScript
+- Introducción a JavaScript
 
 **Progresos:**
 
