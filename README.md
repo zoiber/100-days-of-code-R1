@@ -54,6 +54,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 26: 08 de Mayo, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+-  Introducción a Java Script
+
+**Progresos:**
+
+- Dedique 30mins a observar diferentes plantillas de páginas web, me centre en la organización y distribución del contenido. Los 30mins restantes practique un poco de JS.
+
+**Reflexiones:**
+
+- He logrado intengrar el hábito de la programación a mi vida. Debo seguir constante para mejorar aun más mis habilidades.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 26](https://github.com/zoiber/100-days-of-code-R1/tree/master/D26)
+
+---
 
 ### Día 25: 07 de Mayo, 2020 - Jueves
 
@@ -71,7 +90,7 @@ Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dud
 
 **Enlcace(s) a mi trabajo:**
 
-[Ejemplos día 24](https://github.com/zoiber/100-days-of-code-R1/tree/master/D25)
+[Ejemplos día 25](https://github.com/zoiber/100-days-of-code-R1/tree/master/D25)
 
 ---
 
