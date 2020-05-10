@@ -1,0 +1,28 @@
+<!-- HTML Table JavaScript API -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JaaScript puede cambiar contenido de tablas sobre la marcha</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Lista de productos</h2>
+    <button onclick="buildTable()"> Click para construir la tabla</button>
+    <button onclick="buildRow()"> Agregar nueva fila</button>
+    <table>
+        <tr>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Procesador</th>
+            <th>Gráficos</th>
+            <th>En stock</th>
+        </tr>    
+    <tbody id="tableContactBody"> </tbody>
+</table>
+
+<footer>Prácticas JS por Pablo Lucero</footer>
+</body>
+<script src="main.js"> </script>
+</html>

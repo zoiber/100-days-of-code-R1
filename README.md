@@ -34,7 +34,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 ---
 <!--
 
-### Día 0: 12 de Abril, 2020 - Domingo
+### Día 0: 12 de Mayo, 2020 - Domingo
 
 **Proyectos de hoy:**
 
@@ -55,7 +55,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 # Registro de programación
 
 
+### Día 28: 10 de Mayo, 2020 - Domingo
 
+**Proyectos de hoy:**
+
+- Manipulación de Tablas (HTML) con JavaScript
+
+**Progresos:**
+
+- Se creo un tabla utilizando HTML, se le dio un estilo estandar con Css. Finalmente se practico con JS para modificar el contenido de la tabla. 
+
+**Reflexiones:**
+
+Hoy desperte temprano para poder alcanzar a cumplir el reto. Ahora me voy a seguir trabajando en el delivery de comida.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 28](https://github.com/zoiber/100-days-of-code-R1/tree/master/D28)
+
+---
 
 
 ### Día 27: 09 de Mayo, 2020 - Sábado
@@ -66,7 +84,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Progresos:**
 
-- Se depuro algunos errores utilizando la cosolo de FireFox For Developers
+- Se depuro algunos errores utilizando la consola de FireFox For Developers.
 
 **Reflexiones:**
 
