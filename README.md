@@ -54,6 +54,33 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+
+
+
+
+### Día 27: 09 de Mayo, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+- Practica de Java Script
+
+**Progresos:**
+
+- Se depuro algunos errores utilizando la cosolo de FireFox For Developers
+
+**Reflexiones:**
+
+- Hoy día inicie con un negocio de comida-típica-delivery mucha energía se fue. Ademas hoy facelleció el papá del Emanuel.
+Muchas cosas han pasado pero he cumplido con el reto. Un avance pequeño pero honesto.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 27](https://github.com/zoiber/100-days-of-code-R1/tree/master/D27)
+
+---
+
+
+
 ### Día 26: 08 de Mayo, 2020 - Viernes
 
 **Proyectos de hoy:**
