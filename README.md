@@ -54,6 +54,23 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 29: 11 de Mayo, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+- Tabla de precios
+
+**Progresos:**
+
+- Se creó una tabla con precios de diferentes productos y se le dio un estilo básico con CSS>
+
+**Reflexiones:**
+
+Ahora junte el reto #100DaysOfCode con la creación de una página para ventas de frutas y verduras.
+
+**Enlcace(s) a mi trabajo:**
+
+---
 
 ### Día 28: 10 de Mayo, 2020 - Domingo
 

@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lista de precios dinámica</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <h1>LISTA DE PRECIOS</h1>
+    <div class="table-prices">
+        <div class="farm-pricing-table wow zoomIn" id="table-prices-fruits"
+            style="visibility: visible; animation-name: zoomIn;">
+            <table>
+                <thead>
+                    <tr class="table-heading">
+                        <th>producto</th>
+                        <th>precio</th>
+                        <th>cantidad</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Piña</td>
+                        <td>$1.25</td>
+                        <td>
+                            <div class="input-count">
+                                <button class="button-left">-</button>
+                                <input type="text" id="quantity" name="quantity"
+                                    class="quantity form-control input-number" value="0" max="100" />
+                                <button class="button-right">+</button>
+                            </div>
+                        </td>
+                        <td>$1.25</td>
+                    </tr>
+                    <tr>
+                        <td>Limón (25 unds)</td>
+                        <td>$1.00</td>
+                        <td>
+                            <div class="input-count">
+                                <button class="button-left">-</button>
+                                <input type="text" id="quantity" name="quantity"
+                                    class="quantity form-control input-number" value="0" max="100" />
+                                <button class="button-right">+</button>
+                            </div>
+                        </td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Manzana rayale (5 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Verde (7 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Maduro (7 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Naranaja (13 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Tomate de árbol (7 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Papaya</td>
+                        <td>$0.60</td>
+                        <td>1</td>
+                        <td>$0.60</td>
+                    </tr>
+                    <tr>
+                        <td>Aguacate (3 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Guineo (10 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Uva rosada (1 libra)</td>
+                        <td>$1.25</td>
+                        <td>1</td>
+                        <td>$1.25</td>
+                    </tr>
+                    <tr>
+                        <td>Granadilla (4 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Frutilla (1 libra)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Oritos (1 cabeza)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="table-prices">
+        <div class="farm-pricing-table wow zoomIn" id="table-prices-vegetables"
+            style="visibility: visible; animation-name: zoomIn;">
+            <table>
+                <thead>
+                    <tr class="table-heading">
+                        <th>producto</th>
+                        <th>precio</th>
+                        <th>cantidad</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Cebolla (1 libra)</td>
+                        <td>$0.85</td>
+                        <td>1</td>
+                        <td>$0.85</td>
+                    </tr>
+                    <tr>
+                        <td>Tamate Riñón (1 libra)</td>
+                        <td>$0.75</td>
+                        <td>1</td>
+                        <td>$0.75</td>
+                    </tr>
+                    <tr>
+                        <td>Pimiento (6 unds)</td>
+                        <td>$1.00</td>
+                        <td>
+                            1
+                        </td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Choclo (3 unds)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Remolacha (Un atado)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Papa (1 libra)</td>
+                        <td>$0.30</td>
+                        <td>1</td>
+                        <td>$0.30</td>
+                    </tr>
+                    <tr>
+                        <td>Ajo (Un atado)</td>
+                        <td>$0.50</td>
+                        <td>1</td>
+                        <td>$0.50</td>
+                    </tr>
+                    <tr>
+                        <td>Cebollin (Un atado)</td>
+                        <td>$0.25</td>
+                        <td>1</td>
+                        <td>$0.25</td>
+                    </tr>
+                    <tr>
+                        <td>Acelga (Un atado)</td>
+                        <td>$0.30</td>
+                        <td>1</td>
+                        <td>$0.30</td>
+                    </tr>
+                    <tr>
+                        <td>Col (1 und)</td>
+                        <td>$0.075</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Frescos <br />
+                            (aromático) (1 atado)
+                        </td>
+                        <td>$0.60</td>
+                        <td>1</td>
+                        <td>$0.60</td>
+                    </tr>
+                    <tr>
+                        <td>Cilantro (Un atado)</td>
+                        <td>$0.25</td>
+                        <td>1</td>
+                        <td>$0.25</td>
+                    </tr>
+                    <tr>
+                        <td>Brócoli (1 und)</td>
+                        <td>$0.50</td>
+                        <td>1</td>
+                        <td>$0.50</td>
+                    </tr>
+                    <tr>
+                        <td>Lechuga (1 und)</td>
+                        <td>$0.50</td>
+                        <td>1</td>
+                        <td>$0.50</td>
+                    </tr>
+                    <tr>
+                        <td>Ají (20 und)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Pepinillo (5 und)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Zuquini (1 und)</td>
+                        <td>$0.75</td>
+                        <td>1</td>
+                        <td>$0.75</td>
+                    </tr>
+                    <tr>
+                        <td>Mote choclo (1 libra)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                    <tr>
+                        <td>Zanahoria (Un atado)</td>
+                        <td>$1.00</td>
+                        <td>1</td>
+                        <td>$1.00</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+</html>
