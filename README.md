@@ -51,6 +51,27 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 -->
 
+### Día 30: 12 de Mayo, 2020 - Martes
+
+**Proyectos de hoy:**
+
+- JavaScript
+
+**Progresos:**
+
+Se reviso sobre variables, operadores, funciones y tipos de datos.
+
+**Reflexiones:**
+
+Hoy logre realizar la mayoría de pendientes. Espero continuar mañana con más energia. 
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 30](https://github.com/zoiber/100-days-of-code-R1/tree/master/D30)
+
+---
+
+
 
 # Registro de programación
 
@@ -62,13 +83,15 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Progresos:**
 
-- Se creó una tabla con precios de diferentes productos y se le dio un estilo básico con CSS>
+- Se creó una tabla con precios de diferentes productos y se le dio un estilo normalito con CSS.
 
 **Reflexiones:**
 
 Ahora junte el reto #100DaysOfCode con la creación de una página para ventas de frutas y verduras.
 
 **Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 29](https://github.com/zoiber/100-days-of-code-R1)
 
 ---
 
