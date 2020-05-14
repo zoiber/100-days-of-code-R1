@@ -50,6 +50,32 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 ---
 
 -->
+# Registro de programación
+
+
+
+
+
+### Día 31: 13 de Mayo, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+- Se reviso teria de JS.
+
+**Progresos:**
+
+Pues hoy no hubo nada novedoso, solo se repaso conceptos de programación relacionados a la gramática de JS.
+
+**Reflexiones:**
+
+El nuevo retode #100DaysOfMLCode esta dejandome limitado para este reto. Pero ahí vamos organizandonos. Disfruto más de programar en JS que en HTML o CSS. 
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 31](https://github.com/zoiber/100-days-of-code-R1/tree/master/D31)
+
+---
+
 
 ### Día 30: 12 de Mayo, 2020 - Martes
 
@@ -73,7 +99,7 @@ Hoy logre realizar la mayoría de pendientes. Espero continuar mañana con más 
 
 
 
-# Registro de programación
+
 
 ### Día 29: 11 de Mayo, 2020 - Lunes
 
