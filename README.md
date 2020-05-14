@@ -1,8 +1,8 @@
 # Me uní el reto #100DaysOfCode
 
-| Registro 1 | Log 2 |
+| Registro 1 | Registro 2 |
 | --- | --- |
-| este registro | [Ronda2 En un futuro]()
+| este registro | [Ronda 2](https://github.com/zoiber/100-days-of-code-R2/)
 
 ## Reto y compromiso
 Este reto es parte  de Alexander Kallaway [100DaysOfCode-Repo](https://github.com/Kallaway/100-days-of-code "the official repo"). Para más detalles de este reto puede resivar aquí: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -11,7 +11,7 @@ Este reto es parte  de Alexander Kallaway [100DaysOfCode-Repo](https://github.co
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| 12 de Abril del 2019 | |
+| 12 de Abril del 2020 | |
 
 ## Objetivos
 - [ ] Programar diariamente
