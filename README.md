@@ -11,7 +11,7 @@ Este reto es parte  de Alexander Kallaway [100DaysOfCode-Repo](https://github.co
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| 12 de Abril del 2019 | |
+| 12 de Abril del 2020 | |
 
 ## Objetivos
 - [ ] Programar diariamente
