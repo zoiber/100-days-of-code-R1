@@ -1,6 +1,6 @@
 # Me uní el reto #100DaysOfCode
 
-| Registro 1 | Log 2 |
+| Registro 1 | Registro 2 |
 | --- | --- |
 | este registro | [Ronda2 En un futuro]()
 
