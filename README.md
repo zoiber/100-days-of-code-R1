@@ -53,7 +53,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 # Registro de programación
 
 
+### Día 32: 14 de Mayo, 2020 - Jueves
 
+**Proyectos de hoy:**
+
+- Hoy realice un pequeño album utilizando JS de forma básica.
+
+**Progresos:**
+
+- Se interactuo con los elementos de HTML para cambiar el src de la imagen. Debo seguir mejorando en JS, disfruto mucho programar. Proximamente realizaré algo más avanzado.
+
+**Reflexiones:**
+
+- Me siento motivado, eso de dormir 30mins o 1 hora luego de llegar del trabajo me ayuda mucho a cumplir mis objetivos.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 32](https://github.com/zoiber/100-days-of-code-R1/tree/master/D32)s
+
+---
 
 
 ### Día 31: 13 de Mayo, 2020 - Miercoles

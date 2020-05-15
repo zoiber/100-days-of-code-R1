@@ -1,0 +1,28 @@
+body{
+    /* background: blue; */
+}
+
+.img-grande{
+    display: block;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.img-grande img{
+    margin: 0 auto;
+}
+
+.img-bloque{    
+    position: relative;
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+    
+}
+
+.img-bloque .imagen{
+    width: 950px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;    
+}
