@@ -29,6 +29,7 @@ Los cursos de pago los iré tomando conforme considere necesario.
   - [ ] Tomar el curso [Curso de Introducción a Laravel - Platzi](https://platzi.com/cursos/intro-laravel/) en Platzi (Tentativo).
 
 ### Recursos útiles para el Reto
+
 Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el desarrollo del reto.
 
 ---
@@ -38,20 +39,37 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Proyectos de hoy:**
 
-
 **Progresos:**
 
-
 **Reflexiones:**
-
 
 **Enlcace(s) a mi trabajo:**
 
 ---
 
 -->
+
 # Registro de programación
 
+### Día 33: 12 de Mayo, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Hoy se realizó un página web basica integrando html, css y js bajo la guía de Mozilla developers.
+
+**Progresos:**
+
+Se aprendio a obtener los eventos que genera el usuario en la página web, al igual que obtener una idea macro de como programar JS.
+
+**Reflexiones:**
+
+La vida sigue a pesar de tener un tiempo limitado quiero seguir aprendiendo muchas cosas más. Aun que no se si de algo sirva todo esto.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 33](https://github.com/zoiber/100-days-of-code-R1/tree/master/D33)
+
+---
 
 ### Día 32: 14 de Mayo, 2020 - Jueves
 
@@ -69,7 +87,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Enlcace(s) a mi trabajo:**
 
-[Ejemplos día 32](https://github.com/zoiber/100-days-of-code-R1/tree/master/D32)s
+[Ejemplos día 32](https://github.com/zoiber/100-days-of-code-R1/tree/master/D32)
 
 ---
 
