@@ -51,7 +51,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
-### Día 33: 12 de Mayo, 2020 - Domingo
+### Día 34-35: 16 y 17 de Mayo, 2020 - Sábado y Domingo
+
+**Proyectos de hoy:**
+
+Se revisó teoria sobre hosting y dominio. TCP/IP, DNS, HTTP. En JS se realizó un programa para calcular el suavizado exponencial de un serie de tiempo para graficarlo utilizando HTML y un poco de CSS.
+
+**Progresos:**
+
+Se revisó teoria relacionada 
+
+**Reflexiones:**
+
+- El día de ayer casí que me olvido del reto por terminar otros pendientes. En fin este domingo tome el tiempo restane del saábado.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 34-35](https://github.com/zoiber/100-days-of-code-R1/tree/master/D34-D35)
+
+### Día 33: 15 de Mayo, 2020 - Domingo
 
 **Proyectos de hoy:**
 
