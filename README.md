@@ -56,7 +56,7 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Proyectos de hoy:**
 
-Se programo botones para la cantidad de unidades compradas.
+Se inicio a programar una página para cotizar los precios de un pedido para mi restaurante.
 
 **Progresos:**
 
