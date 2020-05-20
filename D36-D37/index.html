@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lista de precios dinámica</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <h1>LISTA DE PRECIOS</h1>
+    <div class="table-prices">
+        <div class="farm-pricing-table wow zoomIn" id="table-prices-fruits"
+            style="visibility: visible; animation-name: zoomIn;">
+            <table>
+                <thead>
+                    <tr class="table-heading">
+                        <th>producto</th>
+                        <th>precio</th>
+                        <th>cantidad</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="cuy">
+                        <td >Cuy </td>
+                        <td class="precio-unitario">$1.25</td>
+                        <td>
+                            <div class="input-count">
+                                <button class="button-left">-</button>
+                                <input type="text" id="quantity" name="quantity"
+                                    class="quantity form-control input-number" value="0" max="100" />
+                                <button class="button-right">+</button>
+                            </div>
+                        </td>
+                        <td class="subtotal">$1.25</td>
+                    </tr>
+                    <tr class="pollo">
+                        <td>Pollo </td>
+                        <td class="precio-unitario">$1.00</td>
+                        <td>
+                            <div class="input-count">
+                                <button class="button-left">-</button>
+                                <input type="text" id="quantity" name="quantity"
+                                    class="quantity form-control input-number" value="0" max="100" />
+                                <button class="button-right">+</button>
+                            </div>
+                        </td>
+                        <td class="subtotal">$1.00</td>
+                    </tr>
+                    <tr class="yaguana">
+                        <td>Yaguana (litro)</td>
+                        <td class="precio-unitario"> $3.00</td>
+                        <td>
+                            <div class="input-count">
+                                <button class="button-left">-</button>
+                                <input type="text" id="quantity" name="quantity"
+                                    class="quantity form-control input-number" value="0" max="100" />
+                                <button class="button-right">+</button>
+                            </div>
+                        </td>
+                        <td class="subtotal">$3.00</td>
+                    </tr>
+                    <tr class="total">
+                        <td>Total</td>
+                        <td> </td>
+                        <td> </td>
+                        <td class="precio-total">$3.00</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>

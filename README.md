@@ -51,6 +51,25 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+
+### Día 36-37: 18 y 19 de Mayo, 2020 - Lunes y Martes
+
+**Proyectos de hoy:**
+
+Se programo botones para la cantidad de unidades compradas.
+
+**Progresos:**
+
+Se esta mejorando el manejo de JS para poder crear una página que permita calcular de forma automática los precios.
+
+**Reflexiones:**
+
+El tiempo es corto y aveces suelo compararme con el resto y eso es lo peor que he podido hacer, ultimamente lo hago menos ya que de esta forma puedo centrarme en mis progresos y respecto a mi yo del pasado.
+
+**Enlcace(s) a mi trabajo:**
+
+[Ejemplos día 36-37](https://github.com/zoiber/100-days-of-code-R1/tree/master/D36-D37)
+
 ### Día 34-35: 16 y 17 de Mayo, 2020 - Sábado y Domingo
 
 **Proyectos de hoy:**
