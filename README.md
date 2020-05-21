@@ -51,6 +51,19 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 38: 20 de Mayo, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+Creación de mi página web.
+
+**Progresos:**
+
+Empece a crear mi propia página web es algo básica para dar a conocer sobre mi apartado profesional y hobbies.
+
+**Reflexiones:**
+
+Hoy he decidido llegar a los 50 días del reto. Quiero enfocarme en el reto de Kaggle respecto a Machine Learning.
 
 ### Día 36-37: 18 y 19 de Mayo, 2020 - Lunes y Martes
 
