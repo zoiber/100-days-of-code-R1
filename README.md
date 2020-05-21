@@ -51,6 +51,22 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 39: 21 de Mayo, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Aparatado de publicaciones de la página web.
+
+**Progresos:**
+
+El día de hoy continue con el diseño de mi página web, en este caso agregue un apartado de las publicaciones que he realizado.
+
+**Reflexiones:**
+
+La página web va quedando más ordenada que antes. Ahora continuaré con el reto del ML.
+
+**Enlcace(s) a mi trabajo:**
+
 ### Día 38: 20 de Mayo, 2020 - Miercoles
 
 **Proyectos de hoy:**
