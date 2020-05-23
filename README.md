@@ -51,6 +51,24 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 # Registro de programación
 
+### Día 40: 22 de Mayo, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Se continuo trabajando en mi página web.
+
+**Progresos:**
+
+Se terminó de agregar la sección de Publicaciones.
+
+**Reflexiones:**
+
+Todo bien.
+
+**Enlcace(s) a mi trabajo:**
+
+https://zoiber.github.io/
+
 ### Día 39: 21 de Mayo, 2020 - Jueves
 
 **Proyectos de hoy:**
