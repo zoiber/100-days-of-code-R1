@@ -43,13 +43,29 @@ Es una lista con diferentes [recursos online](recursos.md) que ayudarán en el d
 
 **Reflexiones:**
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 ---
 
 -->
 
 # Registro de programación
+
+### Día 41: 24 de Mayo, 2020 - Sabado
+
+**Proyectos de hoy:**
+
+Hoy se continuo agregando contenido a mi sitio web.
+
+**Progresos:**
+
+Se puede utilizar una plantilla para mejorar el diseño.
+
+**Reflexiones:**
+
+Es medio cansado pero ahi vamos.
+
+**Enlace(s) a mi trabajo:**
 
 ### Día 40: 22 de Mayo, 2020 - Viernes
 
@@ -65,7 +81,7 @@ Se terminó de agregar la sección de Publicaciones.
 
 Todo bien.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 https://zoiber.github.io/
 
@@ -83,7 +99,7 @@ El día de hoy continue con el diseño de mi página web, en este caso agregue u
 
 La página web va quedando más ordenada que antes. Ahora continuaré con el reto del ML.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 ### Día 38: 20 de Mayo, 2020 - Miercoles
 
@@ -113,7 +129,7 @@ Se esta mejorando el manejo de JS para poder crear una página que permita calcu
 
 El tiempo es corto y aveces suelo compararme con el resto y eso es lo peor que he podido hacer, ultimamente lo hago menos ya que de esta forma puedo centrarme en mis progresos y respecto a mi yo del pasado.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 36-37](https://github.com/zoiber/100-days-of-code-R1/tree/master/D36-D37)
 
@@ -131,7 +147,7 @@ Se revisó teoria relacionada
 
 - El día de ayer casí que me olvido del reto por terminar otros pendientes. En fin este domingo tome el tiempo restane del saábado.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 34-35](https://github.com/zoiber/100-days-of-code-R1/tree/master/D34-D35)
 
@@ -149,7 +165,7 @@ Se aprendio a obtener los eventos que genera el usuario en la página web, al ig
 
 La vida sigue a pesar de tener un tiempo limitado quiero seguir aprendiendo muchas cosas más. Aun que no se si de algo sirva todo esto.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 33](https://github.com/zoiber/100-days-of-code-R1/tree/master/D33)
 
@@ -169,7 +185,7 @@ La vida sigue a pesar de tener un tiempo limitado quiero seguir aprendiendo much
 
 - Me siento motivado, eso de dormir 30mins o 1 hora luego de llegar del trabajo me ayuda mucho a cumplir mis objetivos.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 32](https://github.com/zoiber/100-days-of-code-R1/tree/master/D32)
 
@@ -190,7 +206,7 @@ Pues hoy no hubo nada novedoso, solo se repaso conceptos de programación relaci
 
 El nuevo retode #100DaysOfMLCode esta dejandome limitado para este reto. Pero ahí vamos organizandonos. Disfruto más de programar en JS que en HTML o CSS. 
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 31](https://github.com/zoiber/100-days-of-code-R1/tree/master/D31)
 
@@ -211,14 +227,11 @@ Se reviso sobre variables, operadores, funciones y tipos de datos.
 
 Hoy logre realizar la mayoría de pendientes. Espero continuar mañana con más energia. 
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 30](https://github.com/zoiber/100-days-of-code-R1/tree/master/D30)
 
 ---
-
-
-
 
 
 ### Día 29: 11 de Mayo, 2020 - Lunes
@@ -235,7 +248,7 @@ Hoy logre realizar la mayoría de pendientes. Espero continuar mañana con más 
 
 Ahora junte el reto #100DaysOfCode con la creación de una página para ventas de frutas y verduras.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 29](https://github.com/zoiber/100-days-of-code-R1)
 
@@ -255,7 +268,7 @@ Ahora junte el reto #100DaysOfCode con la creación de una página para ventas d
 
 Hoy desperte temprano para poder alcanzar a cumplir el reto. Ahora me voy a seguir trabajando en el delivery de comida.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 28](https://github.com/zoiber/100-days-of-code-R1/tree/master/D28)
 
@@ -277,7 +290,7 @@ Hoy desperte temprano para poder alcanzar a cumplir el reto. Ahora me voy a segu
 - Hoy día inicie con un negocio de comida-típica-delivery mucha energía se fue. Ademas hoy facelleció el papá del Emanuel.
 Muchas cosas han pasado pero he cumplido con el reto. Un avance pequeño pero honesto.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 27](https://github.com/zoiber/100-days-of-code-R1/tree/master/D27)
 
@@ -299,7 +312,7 @@ Muchas cosas han pasado pero he cumplido con el reto. Un avance pequeño pero ho
 
 - He logrado intengrar el hábito de la programación a mi vida. Debo seguir constante para mejorar aun más mis habilidades.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 26](https://github.com/zoiber/100-days-of-code-R1/tree/master/D26)
 
@@ -319,7 +332,7 @@ Muchas cosas han pasado pero he cumplido con el reto. Un avance pequeño pero ho
 
 Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dudas o frustraciones solo aceptarlas y dejarlas ser. Luego ellas solas se iran.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 25](https://github.com/zoiber/100-days-of-code-R1/tree/master/D25)
 
@@ -339,7 +352,7 @@ Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dud
 
 - El ir caminando al trabajo y las reuniones de la tarde me esta consumiendo demasiada energia. Pero no pienso dejar el reto de #100daysOfCode.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 24](https://github.com/zoiber/100-days-of-code-R1/tree/master/D24)
 
@@ -361,7 +374,7 @@ Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dud
 
 - Creo que en este apartado me demoraré más para ahondar mis conocimientos en programación en general.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 23](https://github.com/zoiber/100-days-of-code-R1/tree/master/D23)
 
@@ -380,7 +393,7 @@ Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dud
 
 - Hoy he pasado más en actividades de ayuda en la casa, pero me he dado tiempo para cumplir el reto. Siento que debo seguir mejorando mi organización.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 22](https://github.com/zoiber/100-days-of-code-R1/tree/master/D22)
 
@@ -400,7 +413,7 @@ Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dud
 
 - No importa si esto es o no para tí. Me esta ayudando a crear un hábito muy importante para mi desarrollo personal.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 21](https://github.com/zoiber/100-days-of-code-R1/tree/master/D21)
 
@@ -420,7 +433,7 @@ Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dud
 
 - Me estoy planteando si realmente quiero seguir este reto, siento que hay otras cosas como ML que me irían mejor. Veamos que pasa los siguientes días.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 20](https://github.com/zoiber/100-days-of-code-R1/tree/master/D20)
 
@@ -440,7 +453,7 @@ Los días feos han pasado, me siento animado. No hace falta ocultar nuestras dud
 
 - Hoy me toco levantarme pronto, 6am, para poder alcanzar el reto. Vamos por buen camino
 
-**Enlcace(s) a mi trabajo:** 
+**Enlace(s) a mi trabajo:** 
 
 [Ejemplos día 19](https://github.com/zoiber/100-days-of-code-R1/tree/master/D19)
 
@@ -460,7 +473,7 @@ Se reviso la teoria sobre html y css.
 
 Revisar más ejercicios para mejorar en el desarollo web.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 18](https://github.com/zoiber/100-days-of-code-R1/tree/master/D18)
 
@@ -480,7 +493,7 @@ Revisar más ejercicios para mejorar en el desarollo web.
 
 Me di cuenta de que aprendo mejor haciendo sobre la marcha las cosas, en lugar de leer mucho y luego querer hacer.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 17](https://github.com/zoiber/100-days-of-code-R1/tree/master/D17)
 
@@ -501,7 +514,7 @@ Me di cuenta de que aprendo mejor haciendo sobre la marcha las cosas, en lugar d
 - Debo practicar más los ejemplos de cada sección para mejorar la comprensión sobre HTML y CSS. 
 - Utilizar los ejercicios de FCC.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 16](https://github.com/zoiber/100-days-of-code-R1/tree/master/D16)
 
@@ -521,7 +534,7 @@ Me di cuenta de que aprendo mejor haciendo sobre la marcha las cosas, en lugar d
 
 - Es importante trabajar con una paleta de colores para elegir los colores para nuestra página.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 15](https://github.com/zoiber/100-days-of-code-R1/tree/master/D15)
 
@@ -543,7 +556,7 @@ Se apredio sobre responsive y se realizo una maquetación simple para entender c
 
 Tengo pensado empezar 100daysOdCode en machine learning.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 14](https://github.com/zoiber/100-days-of-code-R1/tree/master/D14)
 
@@ -565,7 +578,7 @@ Encontre una página muy buenas sobre [simbolos web](https://www.fontsquirrel.co
 
 El día de hoy encontre un curso muy bueno para tomarlo a la par con el reto. Se llama [CS50x](https://cs50.harvard.edu/x/2020/tracks/web/)
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 13](https://github.com/zoiber/100-days-of-code-R1/tree/master/D13)
 
@@ -585,7 +598,7 @@ Se teminó la maquetación de la barra lateral, y se empezo a trabajar en la sec
 
 Me siento bien, comprendo como funciona esto de la maquetación y siento que podré mejorar conforme siga practicando.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 12](https://github.com/zoiber/100-days-of-code-R1/tree/master/D12)
 
@@ -605,7 +618,7 @@ Se continuo con el desarrollo de un sitio web usando Html y Css. Hoy se agrego s
 
 Un día cansado, toco volver al trabajo luego de una larga cuarentena.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 11](https://github.com/zoiber/100-days-of-code-R1/tree/master/D11)
 
@@ -626,7 +639,7 @@ El día de hoy se trabaje en la maquetación de un página web, se agregó el en
 Hoy me pregunte si me servirá para algo lo que stoy aprendiendo, me dio ganas de empezar a aplicar mis conocimientos en machine learning. 
 Creo que crearé una página web con la ruta para aprender ML.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 10](https://github.com/zoiber/100-days-of-code-R1/tree/master/D10)
 
@@ -647,7 +660,7 @@ Pense que no iba a terminar el día de hoy por falta de tiempo pero si se pudo.
 Aunque ya tengo sueño jajaj.
 
 Seria interesante recrear esta [página](https://andreasbm.github.io/web-skills/) enfocada al Machine Learning
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 9](https://github.com/zoiber/100-days-of-code-R1/tree/master/D9)
 
@@ -685,7 +698,7 @@ Se aplicó sobre cajas, posicionamiento, sombras, efectos.
 Es recomendable revisar varios ejercicios en la web.
 Es interesante como ver que lo aprendido en un semana va dando resultados.
 
-**Enlcace(s) a mi trabajo:**
+**Enlcce(s) a mi trabajo:**
 
 [Ejemplos día 7](https://github.com/zoiber/100-days-of-code-R1/tree/master/D7)
 
@@ -704,7 +717,7 @@ Este día tomó el curso de Victor Robles [Master en CSS: Responsive, SASS, Flex
 Se aprende mejor cuando se dispone de un maestro. Los días pasados he ido muy lento debio al hecho de desconocer sobre la programación web.
 De ahora en adelante, tratar de tomar algunos cursos para acelerar el proceso de aprendizaje.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 6](https://github.com/zoiber/100-days-of-code-R1/tree/master/D6)
 
@@ -726,7 +739,7 @@ Se realizó una pequeña página web con lo más básico de HTML. Me siento muy 
 Hoy me llegaron pensamientos de si aprender programación web me servirá para algo.
 
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 5](https://github.com/zoiber/100-days-of-code-R1/tree/master/D5)
 
@@ -748,7 +761,7 @@ Hoy me llegaron pensamientos de si aprender programación web me servirá para a
 Pues me siento contento de seguir en este desafio. Aun se siente largo los 100 días, pero un paso a la vez.
 Hoy ha sido un buen día a pesar de la cuarentena se a cumplido con el trabajo y con el reto.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 4](https://github.com/zoiber/100-days-of-code-R1/tree/master/D4)
 
@@ -769,7 +782,7 @@ Hoy ha sido un buen día a pesar de la cuarentena se a cumplido con el trabajo y
 **Reflexiones:**
 EL día de hoy a sido un día muy ajetreado en el trabajo. No se logré avanzar con mis tareas del día pero logré conseguir un espacio para el reto. Se siente bien poder hacer lo que me gusta.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 3](https://github.com/zoiber/100-days-of-code-R1/tree/master/D3)
 
@@ -789,7 +802,7 @@ EL día de hoy a sido un día muy ajetreado en el trabajo. No se logré avanzar 
 **Reflexiones:**
 - Fue un día muy productivo, a pesar de todas las actividades del trabajo, se logró conseguir tiempo. A pesar de la  cuarentena, la motivación por aprender algo nuevo me mantiene positivo.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 2](https://github.com/zoiber/100-days-of-code-R1/tree/master/D2)
 
@@ -812,7 +825,7 @@ Esta sesión la he terminado el 14 a la 1am.
 
 Día 1 cumplido!
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 
 [Ejemplos día 1](https://github.com/zoiber/100-days-of-code-R1/tree/master/D1)
 
@@ -833,7 +846,7 @@ Se organizó las cuentas a utilizar en las diferentes plataformas.
 **Reflexiones:**
 Fue algo canzado, no sabia si ir por Desarrollo Web o Movil. A la final opte por Desarrollo Web. Todo esto me ha tomado más de 5 horas.
 
-**Enlcace(s) a mi trabajo:**
+**Enlace(s) a mi trabajo:**
 1.  [Perfil FCC](https://www.freecodecamp.org/pabloluce2021)
 2.  [Cuenta en Twitter](https://twitter.com/PabloLuceroEC)
 
